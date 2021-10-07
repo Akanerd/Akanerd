@@ -1,6 +1,4 @@
 <h3 title="hehehe"> Hey 👋, I'm Akanerd!</h3>
-
-<br />
 <br />
 
 A **WEB,ANDROID,GAME AND ANALYST DEVELOPMENT** ***Enthusiast*** 🚀.
